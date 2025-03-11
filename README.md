@@ -77,13 +77,13 @@ flowsync-dashboard-app/
 
 #### Mac/Linux
 ```bash
-git clone https://github.com/yourusername/flowsync-dashboard-app.git
+git clone https://github.com/syedazharmbnr1/flowsync-dashboard-app.git
 cd flowsync-dashboard-app
 ```
 
 #### Windows
 ```bash
-git clone https://github.com/yourusername/flowsync-dashboard-app.git
+git clone https://github.com/syedazharmbnr1/flowsync-dashboard-app.git
 cd flowsync-dashboard-app
 ```
 
