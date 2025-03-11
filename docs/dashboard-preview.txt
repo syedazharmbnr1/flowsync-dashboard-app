@@ -1,0 +1,3 @@
+# This is a placeholder for the dashboard preview image.
+# You should replace this with an actual screenshot of the dashboard in PNG format.
+# Recommended size: 1200x800 pixels
